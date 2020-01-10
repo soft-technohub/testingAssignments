@@ -101,7 +101,7 @@ public class WebsiteReview {
 	
 		// clciking check box
 
-		reviewPage.fraudCheck.click();
+		reviewPage.aggrementCheck.click();
 		
 
 	}
