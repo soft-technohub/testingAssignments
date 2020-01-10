@@ -52,7 +52,7 @@ public class WebsiteReviewPage {
     
     @FindBy(how = How.ID, using =  
             "noFraud") 
-    WebElement fraudCheck; 
+    WebElement aggrementCheck; 
     
     @FindBy(how = How.XPATH, using =  
             "//*[@id='bubble_rating']") 
